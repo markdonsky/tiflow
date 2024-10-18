@@ -154,7 +154,7 @@
   "target table": "Target Table",
   "task detail": "Task Detail",
   "task list": "Task",
-  "task list desc": "This module is used to manage data migration tasks. Before creating a new task, you need to add upstream database information on the sidebar-source configuration page. Please note:\n\nAutomatically support the source using the pt-osc/gh-ost online schema change tools without configuration; if you use other types of tools, or modified the default behavior of pt-osc/gh-ost yourself, please look for the online document for support;",
+  "task list desc": "This module is used to manage data migration tasks. Before creating a new task, you need to add upstream database information on the sidebar-source configuration page. Please note:\n\nTiDB Data Migration Tool automatically support the source using pt-osc and gh-ost online schema change tools. If you use other types of tools, or modified the default behavior of pt-osc/gh-ost yourself, please look for the online document for support;",
   "task mode": "Mode",
   "task name": "Name",
   "task name is required": "Task name is required",
